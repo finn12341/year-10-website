@@ -1,8 +1,19 @@
 img {
-    width: 1000px;
-    height: 400;
+    width: 500px;
+    height: 200;
+    place-items: center;
 }
+
+
 p {
     font-size: 80px;
     text-align: center;
 }
+
+
+h1{font-size: 50px;
+text-align: center;}
+
+
+h3{font-size: 50px;
+text-align: center;}

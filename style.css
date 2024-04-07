@@ -17,3 +17,15 @@ text-align: center;}
 
 h3{font-size: 50px;
 text-align: center;}
+
+h4{font-size: 24px;}
+
+h6{font-size: 80px;
+text-align: center;}
+
+.index-body{
+    background-image:url("https://wallpapers.com/images/high/beautiful-minecraft-pink-mountain-jeiwb83n9yvg474y.webp");
+    background-size: cover;
+}
+.go-to{font-size: 80px;
+text-align: center;}
